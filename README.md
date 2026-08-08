@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a student at the University of Michigan dual majoring in Robotics and Computer Engineering. <br>I am a member of Michigan Mars Rover Project team, working with the Embedded Systems team on our new BMC.<br>I mentor FRC Team 4810 - I.AM.Robot
+I'm currently a student at the University of Michigan dual majoring in Robotics and Computer Engineering. <br>I work as a Software Engineering Intern at FANUC America, working directly with automotive companies to maintain existing software and support new developments. <br>I am a member of Michigan Mars Rover Project team, working with the Embedded Systems team on our new BMC.<br>I mentor FRC Team 4810 - I.AM.Robot
 
 
 ## 🌐 Socials:
